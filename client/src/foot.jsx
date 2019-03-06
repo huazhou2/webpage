@@ -9,7 +9,8 @@ class Foot extends Component {
 		      &copy; HuaZhou 2019.03
           </li>
 	      <li>
-		    You are the 1st visitor 
+		      227 E 30th Street #758E<br/>
+	              NYC, New York,10016
           </li>
       </ul>
 

@@ -17,6 +17,9 @@ class Head extends Component {
           <li>
 		  <Link to="/stories" className='link' >Stories</Link>
           </li>
+          <li>
+		  <Link to="/tools" className='link' >Tools</Link>
+          </li>
       </ul>
 
     )}};
